@@ -1,0 +1,6 @@
+#V1.0
+# - Download YouTube videos via link
+
+#V1.1
+# - Allow users to pick their desired file format
+# - Allow users to rename file or allow file to be auto-named
